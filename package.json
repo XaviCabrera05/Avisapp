@@ -1,0 +1,24 @@
+{
+  "name": "avisapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+ "scripts": {
+  "start": "node app.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XaviCabrera05/Avisapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/XaviCabrera05/Avisapp/issues"
+  },
+  "homepage": "https://github.com/XaviCabrera05/Avisapp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
